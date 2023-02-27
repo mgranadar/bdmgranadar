@@ -1,2 +1,2 @@
 # bdmgranadar
-Repositorio para el modulo de Big Data
+Repositorio para el modulo de Machine Learning
